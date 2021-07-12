@@ -1,6 +1,6 @@
 # maze-problem
 
-To run the program, download the code then run index.html.
+To run the program, download code folder then run index.html.
 You should be able to see four input fields in your browser:
 1. M: number of columns 
 1. N: number of rows
