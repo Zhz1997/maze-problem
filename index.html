@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Maze</title>
+
+</head>
+
+<body>
+    <input id="m" type="text">m 
+    <input id="n" type="text">n
+    <input id="xarray" type="text">xarray
+    <input id="yarray" type="text">yarray
+    <button onclick="callMakeRows()">Run</button>
+    <button onclick="runAnimation()" id="animationButton" hidden>RunAnimation</button>
+    <div id="container">
+    </div>
+    <div id="noPath" hidden>No Path!</div>
+</body>
+
+</html>
+<link rel="stylesheet" href="style.css">
+<script type="text/javascript" src="scripts/_node.js"></script>
+<script type="text/javascript" src="scripts/grid.js"></script>
