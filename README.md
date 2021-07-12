@@ -1,5 +1,8 @@
 # maze-problem
 
+Use BFS to find the minimum distance between the source cell and destiny cell.  
+Reason why BFS will produce shortest path is shown here: https://www.geeksforgeeks.org/shortest-path-in-a-binary-maze/.  
+
 To run the program, clone the repo to your local machine then run code/index.html.
 You should be able to see four input fields in your browser:
 1. M: number of columns 
